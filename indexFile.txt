@@ -7,5 +7,6 @@ try 3
 do
 
 Additional changes from Egle. 
+My features implementation K.S.
 
 end
