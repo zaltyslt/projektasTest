@@ -8,5 +8,6 @@ do
 
 Additional changes from Egle. 
 My features implementation K.S.
-padariau kaz ka ir pushinu i github 0
+padariau kaz ka ir pushinu i GitHub 0
+toliau dirbu su savo features, bet nelieciu savo pagrindines development branch
 end
