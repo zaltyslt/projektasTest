@@ -1,7 +1,12 @@
 begin
 
-some changes
-
+some changes 2
+made changes in main, will try to push them back.
+try 2
+try 3
 do
 
+Additional changes from Egle. 
+My features implementation K.S.
+padariau kaz ka ir pushinu i github 0
 end
